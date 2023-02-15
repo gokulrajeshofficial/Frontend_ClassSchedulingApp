@@ -1,0 +1,17 @@
+.search_input{
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    height: 2.6rem;
+    margin-right: 5px;
+
+    border-width: thin;
+    border-color: black;
+}
+.search{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.seachButton{
+    width: 100%;
+}

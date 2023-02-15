@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital@1&display=swap');
+
+.nav-align{
+    margin-top: 12px;
+}
+.navbar-brand{
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.7rem;
+}
+.bg-pink{
+    background-color: #a2206a;
+}
+.navLink{
+    text-decoration: none;
+    
+}
